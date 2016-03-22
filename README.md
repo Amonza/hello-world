@@ -1,3 +1,3 @@
 # hello-world
-yet another repository\n
+yet another repository
 I made some changes to this file.
