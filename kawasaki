@@ -1,0 +1,37 @@
+<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+<form id="warranty-request">
+<div id="brands">
+  <div class="three columns">
+    <div class="panel callout">
+      <div>
+        <input id="radio1" type="radio" name="radio" value="kawasaki"><label for="radio1">Kawasaki - Vertical</label>
+      </div>
+      <div>
+        <input id="radio2" type="radio" name="radio" value="kawasaki"><label for="radio2">Kawasaki - Horizontal</label>
+      </div>
+    </div>
+    </div>
+    <div class="three columns">
+    <div class="panel callout">
+      <div>
+        <input id="radio3" type="radio" name="radio" value="3"><label for="radio1">Oregon - Log Splitters</label>
+      </div>
+      <div>
+        <input id="radio4" type="radio" name="radio" value="4"><label for="radio2">Oregon - 36V</label>
+      </div>
+      <div>
+        <input id="radio5" type="radio" name="radio" value="5"><label for="radio2">Oregon - Saw Chains</label>
+      </div>
+    </div>
+    </div>
+    <div class="three columns">
+    <div class="panel callout">
+      <div>
+        <input id="radio6" type="radio" name="radio" value="6"><label for="radio1">GA&nbsp;Products</label>
+      </div>
+    </div>
+    </div>
+    <p id="kawaFlatRate"></p>
+    </div>
+  
+</form>
