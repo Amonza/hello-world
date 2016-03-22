@@ -1,0 +1,12 @@
+$('#brands input').on('change', function() {
+
+   message = $('input[name="radio"]:checked', '#brands').val();
+
+  if(message !== "kawasaki"){
+     $("#kawaFlatRate").html("");
+  }
+    else{
+      $("#kawaFlatRate").html("Check the flat rate schedule for recommended time for repair.");
+    }
+  }
+  );
